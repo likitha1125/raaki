@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Exo+2&family=Gluten&family=Montserrat&family=Open+Sans&family=Poppins&family=Roboto&family=Work+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body{
+    font-family: 'Gluten', sans-serif;
+    background-image: url("https://i.pinimg.com/originals/46/df/48/46df48012f50b0506a7782af3dd1fcf2.jpg");
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    position: absolute;
+    left: 5%;
+    transform: translateX(-50%);
+    nav-down: auto;
+    height: 500px;
+    padding-left:40px ;
+    top: 30%;
+    margin: 70%;
+  }
+  h1{
+    text-align: center;
+    top: 20%;
+    margin: 50px;
+    font-size: xx-large;
+    padding-top: 8em;
+
+  }
+  p{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: auto;
+    
+  }
+  
+h2{
+    text-align: center;
+    padding: 5%;
+    
+}
+#logo img{
+    position: absolute;
+    transform: translateX(-50%);
+    nav-down: auto;
+    height: 250px;
+    top: 20%;
+    margin: 20%;
+  }
+  
+nav {
+    margin: 2% 7%;
+}
+#scroll{
+position: absolute;
+bottom: 0;
+left: 50%;
+transform: translateX(-50%);
+}
+#img{
+    padding-left: 450px;
+}
